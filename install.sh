@@ -25,7 +25,7 @@ display_welcome() {
   echo -e "𝗬𝗢𝗨𝗧𝗨𝗕𝗘 :"
   echo -e "@ZeroOffc"
   echo -e "𝗖𝗥𝗘𝗗𝗜𝗧𝗦 :"
-  echo -e "@foxstore"
+  echo -e "@Zerone Official"
   sleep 4
   clear
 }
